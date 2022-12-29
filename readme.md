@@ -1,5 +1,5 @@
 # Upload files to s3
-this program will help you to upload all files to s3 which exist in current dir inside upload_folder
+this program will help you to upload all files to s3 which exist in current dir inside upload_folder and provide you all the public urls of files
 # Requiruement
 - Rust
 ## Add .env to current dir
