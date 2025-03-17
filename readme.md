@@ -4,9 +4,9 @@ this program will help you to upload all files to s3 which exist in current dir 
 - Rust
 ## Add .env to current dir
 ```env
-BUCKET_NAME=
-ACCESS_KEY_ID=
-SECRET_KEY_ID=
+AWS_ACCESS_KEY_ID=
 AWS_REGION=
-
+AWS_BUCKET_NAME=
+AWS_SECRET_ACCESS_KEY=
+FILE_JSON=
 ```
