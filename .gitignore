@@ -1,2 +1,5 @@
 /target
 .env
+upload_folder/
+gdc-upload*.json
+upload_folder.zip
